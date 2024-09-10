@@ -1,7 +1,7 @@
 ---
 title: "Các câu hỏi phỏng vấn tester"
 description: "Đây là các câu hỏi mà mình đã gặp và sưu tầm"
-author: Quynh Nhu Cute
+author: quynhnhu
 date: 2024-09-10 22:07:00 +0700
 categories: [Blog]
 tags: [tester]
